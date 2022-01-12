@@ -70,7 +70,7 @@
 
 
 - 🔭 I’m currently working on JS/React applications 
-- 🌱 I’m currently learning React Hooks and Redux 
+- 🌱 I’m currently learning C++ and Redux 
 - 💬 Ask me about anything! 
 - 👑 Fun fact: I was in the US Army.
 
