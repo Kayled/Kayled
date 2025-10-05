@@ -62,38 +62,4 @@
 
 <p align="center">
   <samp>
-  🧩 <b>NetSuite ↔ SharePoint Integration:</b> Automated file uploads using SuiteScript & Graph API via Celigo.  
-  <br>
-  ⚙️ <b>Item Creation RESTlet:</b> Dynamic replication of existing inventory items with custom field mappings.  
-  <br>
-  📊 <b>Purchasing & Tax Dashboards:</b> Power BI reports pulling data directly from NetSuite saved searches.  
-  </samp>
-</p>
-
-<hr>
-
-<h2 align="center"><samp> Let's Connect </samp></h2>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/kayle-brooke-hall/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a target="_blank" href="mailto:kaylebhall@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://voltagrid.com">
-    <img src="https://img.shields.io/badge/VoltaGrid-222222?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </a>
-</p>
-
-<hr>
-
-<img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
-<p align="center">
-  <samp>
-  - 🔭 I’m currently integrating NetSuite with Celigo & SharePoint  
-  - 🌱 Learning advanced RESTlet optimization and webhook design  
-  - 💬 Ask me about NetSuite, APIs, or data automation magic  
-  - 🐾 Fun fact: My dogs think I work in their pack’s IT department  
-  </samp>
-</p>
+  🧩 <b>NetSuite ↔ SharePoi
