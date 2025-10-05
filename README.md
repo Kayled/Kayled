@@ -5,7 +5,7 @@
   </samp>
 </h1> 
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*Wly3_SfWDXbUkaM0J1PYOg.gif" alt="NetSuite Integration" width="1100px" height="230px"/>
+<img src="https://www.shutterstock.com/image-vector/erp-enterprise-resource-planning-concept-260nw-685740040.jpg" alt="ERP Banner" width="1100px" height="230px"/>
 
 <hr>
 
@@ -23,7 +23,15 @@
   <samp>
   My background bridges <b>NetSuite development</b>, <b>integration architecture</b>, and <b>business intelligence</b> —  
   so you’ll see everything from automation scripts to Power BI dashboards here.  
-  I speak fluent “JSON” and have strong opinions about checkbox logic. 😅
+  I’m fluent in <b>ERP</b> — connecting data, workflows, and people into one seamless flow. ⚡  
+  </samp>
+</p>
+
+<br>
+
+<p align="center">
+  <samp>
+  ✨ Currently rebuilding my GitHub to showcase my integration and automation projects — stay tuned!  
   </samp>
 </p>
 
@@ -58,8 +66,25 @@
 
 <hr>
 
-<h2 align="center"><samp> Featured Projects </samp></h2>
+<h2 align="center"><samp> Let’s Connect </samp></h2>
+<p align="center">
+  <a target="_blank" href="https://linkedin.com/in/kaylehall">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a target="_blank" href="mailto:kayledavis89@gmail.com?subject=Project%20Advice%20Request&body=Hey%20Kayle%2C%20I%20could%20use%20your%20expertise%20on%20a%20NetSuite%20or%20integration%20project!">
+    <img src="https://img.shields.io/badge/Ask%20for%20Project%20Advice-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+<img height="100%" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 <p align="center">
   <samp>
-  🧩 <b>NetSuite ↔ SharePoi
+  - 🔭 Currently integrating NetSuite with Celigo, SharePoint & APIs  
+  - 🌱 Growing advanced RESTlet optimization and webhook design  
+  - 💬 Ask me about NetSuite, integrations, or data automation magic  
+  - 🐾 Fun fact: My dogs think I work in their pack’s IT department  
+  </samp>
+</p>
